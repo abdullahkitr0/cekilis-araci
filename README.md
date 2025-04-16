@@ -15,16 +15,16 @@ Bu proje, katılımcılar arasından rastgele kazanan(lar) belirlemek için geli
 - Mobil uyumlu arayüz (Tailwind CSS ile)
 - jQuery üzerinden AJAX ile hızlı yanıt alma
 
----
 
 ## 📁 Dosya Yapısı
 
-/
-├── index.php         # Ana arayüz ve kullanıcı girişi
-├── jPost.php         # Çekilişi yapan backend PHP dosyası
-├── README.md         # Bu dökümantasyon
+├── index.php        # Ana arayüz ve kullanıcı girişi
 
----
+├── jPost.php        # Çekilişi yapan backend PHP dosyası
+
+├── README.md        # Bu dökümantasyon
+
+
 
 ## 🛠️ Kurulum
 
